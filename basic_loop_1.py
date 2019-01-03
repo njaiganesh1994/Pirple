@@ -1,5 +1,5 @@
 #Initialization of counter for prime number check
-#Initiation of for loop for 1 to 100
+#For loop for 1 to 100
 for i in range(1,101):
 	num1=0
 	#Divisibility check for 3 and 5
